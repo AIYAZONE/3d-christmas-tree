@@ -1,0 +1,7 @@
+{
+  "name": "3D-Christmas Tree",
+  "description": "A high-fidelity 3D interactive experience featuring a morphing Christmas tree, photo discovery, and luxury aesthetics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
